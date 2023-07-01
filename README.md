@@ -6,7 +6,6 @@ Package `graphqlc` provides a GraphQL client implementation.
 - [graphqlc](#graphqlc)
     - [Installation](#installation)
     - [Usage](#usage)
-        - [Authentication](#authentication)
         - [Query](#query)
           - [Simple Query](#simple-query)
           - [Arguments and Variables](#arguments-and-variables)
