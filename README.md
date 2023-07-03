@@ -15,7 +15,7 @@ Package `graphqlc` provides a GraphQL client implementation.
 ## Installation
 
 ```bash
-go get -u github.com/hasura/go-graphql-client
+go get -u github.com/solid-wang/graphqlc
 ```
 
 ## Usage
