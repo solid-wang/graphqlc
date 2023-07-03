@@ -1,4 +1,4 @@
-module graphqlc
+module github.com/solid-wang/graphqlc
 
 go 1.19
 
